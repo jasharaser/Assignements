@@ -1,0 +1,28 @@
+1) Considering that "fs" is an instance of "filesystem" module, which of the following file system functions can be used to delete a file?
+A) fs.unlink() and fs.unlinkSync()  Option (D)
+
+2) Which of the following commands is used to start a node in debug mode?
+A) node debug  Option (C)
+
+3) Which of the following directives is used to load the HTTP module and store returned HTTP instances into HTTP variables when you are creating a Node.js application?
+A) require Option(C)
+
+4) Which of the following commands is used to start a REPL session?
+A) node  Option(B)
+
+5) 
+
+6) In which of the following areas is Node.js not used or recommended?
+A) CPU Intensive Applications
+
+7) Which of the following is the correct syntax to create an uninitiated buffer of 10 sockets in Node.js?
+A) var buf = new Buffer(10);  Option (A)
+
+8) Which of the following types of streams can be used for both read and write operations in Node.js?
+A) Duplex and Transform Streams Option (A,B)
+
+9) Which of the following is not an attribute of package.json?
+A) Position Option (D)
+
+10) What is the operation of PUT request, which is used to make RESTful requests?
+A) It is used to update the data Option (B)
